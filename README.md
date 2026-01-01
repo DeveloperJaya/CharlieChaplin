@@ -24,10 +24,9 @@ Buttons
 Layout structure
 
 🔹 Example:
-<!-- 
+
 <h1>Hello World</h1>
 <p>This is a webpage</p>
--->
 
 ➡️ Think of HTML as the skeleton of a website.
 
